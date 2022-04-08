@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python and Machine Learning**
 
-- 👨‍💻 All of my projects are available at [filipebruckbasso](filipebruckbasso)
+- 👨‍💻 All of my projects are available at [filipebruckbasso]
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/filipe-bruck-basso/](https://www.linkedin.com/in/filipe-bruck-basso/)
 
