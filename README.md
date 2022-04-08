@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python and Machine Learning**
 
-- 📝 I used to write articles in the past [Currently not](Currently not)
+- 📝 I used to write articles in the past
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/filipe-bruck-basso/](https://www.linkedin.com/in/filipe-bruck-basso/)
 
